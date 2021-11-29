@@ -1,13 +1,25 @@
 .StarFox64 {
-    width: 10%;
+    width: 20%;
     color: darkolivegreen;
-    background-color: black;
     text-align: center;
     margin: auto;
     font-style: italic;
+    
 }
 
 #StarFoxBoxArt {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+#Mvc_cover {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+#Oblivion_cover {
     width: 50%;
     margin: auto;
     display: block;
@@ -19,7 +31,7 @@ ul {
     color: slateblue;
     margin: auto;
     text-align: center;
-    padding: auto;
+    
     
 }
 
